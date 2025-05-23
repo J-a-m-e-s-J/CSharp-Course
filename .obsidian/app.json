@@ -1,0 +1,11 @@
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "spellcheck": false,
+  "autoPairBrackets": true,
+  "autoPairMarkdown": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "defaultViewMode": "source"
+}

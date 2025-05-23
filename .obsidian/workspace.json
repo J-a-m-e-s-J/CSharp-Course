@@ -1,0 +1,252 @@
+{
+  "main": {
+    "id": "6565cf1255e9b797",
+    "type": "split",
+    "children": [
+      {
+        "id": "b21a4bf10086740b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faeeea9fd15c1ebf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "面向对象/1.类&对象.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "1.类&对象"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd74992535f60638",
+    "type": "split",
+    "children": [
+      {
+        "id": "397b76ec88fe99db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bfe9fc9380977654",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "97b1cd98e6449e2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "579f75c1c19df58d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      },
+      {
+        "id": "07ee533c0f1c00b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9826383fa45cd947",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "面向对象/1.类&对象.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1.类&对象 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0188388ead11e5ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "350c2158116bda63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f01879b655ab8118",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "e2522c4f0d68de22",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "零基础入门/4.变量&输入语句.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "4.变量&输入语句 的反向链接列表"
+            }
+          },
+          {
+            "id": "c06711a5279e4dd8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "零基础入门/4.变量&输入语句.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "4.变量&输入语句 的出链列表"
+            }
+          },
+          {
+            "id": "79a9bb87e34c38dc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d68c6fdd4eb7820a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "面向对象/1.类&对象.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "1.类&对象 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "graph:查看关系图谱": false
+    }
+  },
+  "active": "faeeea9fd15c1ebf",
+  "lastOpenFiles": [
+    "面向对象/0.写在前面.md",
+    "面向对象/1.类&对象.md",
+    "零基础入门/1.基础环境配置.md",
+    "零基础入门/6.if语句.md",
+    "零基础入门/0.写在前面.md",
+    "零基础入门/13.章节复习&实例.md",
+    "零基础入门/12.函数.md",
+    "零基础入门/11.随机数&猜数字.md",
+    "零基础入门/4.变量&输入语句.md",
+    "零基础入门/5.运算符.md",
+    "未命名.canvas",
+    "未命名.md",
+    "零基础入门/9.for循环.md",
+    "零基础入门/2.代码基本结构&输出语句.md",
+    "零基础入门/7.switch语句.md",
+    "零基础入门/8.while循环.md",
+    "零基础入门/10.控制循环&死循环.md",
+    "零基础入门/3.数据类型.md",
+    "README.md",
+    "Pasted image 20250409195216.png",
+    "unity教程/0.写在前面.md",
+    "Pasted image 20250409185153 3.png",
+    "Pasted image 20250409185153 2.png",
+    "Pasted image 20250409185153 1.png",
+    "Pasted image 20250409185153.png",
+    "Pasted image 20250409185152 19.png",
+    "Pasted image 20250409185152 18.png",
+    "Pasted image 20250409185152 17.png",
+    "Pasted image 20250409185152 16.png",
+    "Pasted image 20250409185152 15.png",
+    "Pasted image 20250409185055.png.md",
+    "未命名 1.md",
+    "5.运算符.md",
+    "Obsidian-1.8.9.7z",
+    "Obsidian-1.8.9.7z.tmp",
+    "面向对象/配套代码/obj/Debug/net9.0/配套代码.AssemblyInfo.cs",
+    "面向对象/配套代码/obj/Debug/net9.0/配套代码.AssemblyInfoInputs.cache",
+    "面向对象/配套代码/obj/Debug/net9.0/配套代码.GeneratedMSBuildEditorConfig.editorconfig",
+    "面向对象/配套代码/obj/Debug/net9.0/配套代码.GlobalUsings.g.cs",
+    "面向对象/配套代码/obj/Debug/net9.0/ref",
+    "面向对象/配套代码/obj/Debug/net9.0/refint",
+    "面向对象/配套代码/bin/Debug/net9.0",
+    "面向对象/配套代码/bin/Debug",
+    "面向对象/0.写在前面 1.md",
+    "面向对象/0.写在前面 2.md",
+    "面向对象.md",
+    "欢迎.md"
+  ]
+}
