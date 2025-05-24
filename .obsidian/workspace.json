@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "面向对象/1.类&对象.md",
+                "file": "面向对象/2.构造方法.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1.类&对象"
+              "title": "2.构造方法"
             }
           }
         ]
@@ -87,13 +87,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "面向对象/1.类&对象.md",
+                "file": "面向对象/2.构造方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1.类&对象 的大纲"
+              "title": "2.构造方法 的大纲"
             }
           }
         ]
@@ -201,24 +201,35 @@
   },
   "active": "faeeea9fd15c1ebf",
   "lastOpenFiles": [
-    "面向对象/0.写在前面.md",
     "面向对象/1.类&对象.md",
+    "面向对象/2.构造方法.md",
+    "面向对象/源码/1/obj/Debug/net9.0/1.csproj.FileListAbsolute.txt",
+    "面向对象/源码/1/bin/Debug/net9.0/1.pdb",
+    "面向对象/源码/1/obj/Debug/net9.0/ref/1.dll",
+    "面向对象/源码/1/bin/Debug/net9.0/1.dll",
+    "面向对象/源码/1/bin/Debug/net9.0/1.runtimeconfig.json",
+    "面向对象/源码/1/obj/Debug/net9.0/1.genruntimeconfig.cache",
+    "面向对象/源码/1/bin/Debug/net9.0/1.deps.json",
+    "面向对象/源码/1/bin/Debug/net9.0/1.exe",
+    "面向对象/源码/1/obj/Debug/net9.0/apphost.exe",
+    "面向对象/源码/1/obj/Debug/net9.0/refint/1.dll",
+    "面向对象/0.写在前面.md",
+    "零基础入门/2.代码基本结构&输出语句.md",
     "零基础入门/1.基础环境配置.md",
-    "零基础入门/6.if语句.md",
     "零基础入门/0.写在前面.md",
     "零基础入门/13.章节复习&实例.md",
     "零基础入门/12.函数.md",
     "零基础入门/11.随机数&猜数字.md",
-    "零基础入门/4.变量&输入语句.md",
+    "零基础入门/10.控制循环&死循环.md",
+    "零基础入门/9.for循环.md",
+    "零基础入门/8.while循环.md",
+    "零基础入门/6.if语句.md",
+    "零基础入门/7.switch语句.md",
     "零基础入门/5.运算符.md",
+    "零基础入门/4.变量&输入语句.md",
+    "零基础入门/3.数据类型.md",
     "未命名.canvas",
     "未命名.md",
-    "零基础入门/9.for循环.md",
-    "零基础入门/2.代码基本结构&输出语句.md",
-    "零基础入门/7.switch语句.md",
-    "零基础入门/8.while循环.md",
-    "零基础入门/10.控制循环&死循环.md",
-    "零基础入门/3.数据类型.md",
     "README.md",
     "Pasted image 20250409195216.png",
     "unity教程/0.写在前面.md",
@@ -234,19 +245,8 @@
     "Pasted image 20250409185055.png.md",
     "未命名 1.md",
     "5.运算符.md",
-    "Obsidian-1.8.9.7z",
-    "Obsidian-1.8.9.7z.tmp",
-    "面向对象/配套代码/obj/Debug/net9.0/配套代码.AssemblyInfo.cs",
-    "面向对象/配套代码/obj/Debug/net9.0/配套代码.AssemblyInfoInputs.cache",
-    "面向对象/配套代码/obj/Debug/net9.0/配套代码.GeneratedMSBuildEditorConfig.editorconfig",
-    "面向对象/配套代码/obj/Debug/net9.0/配套代码.GlobalUsings.g.cs",
-    "面向对象/配套代码/obj/Debug/net9.0/ref",
-    "面向对象/配套代码/obj/Debug/net9.0/refint",
-    "面向对象/配套代码/bin/Debug/net9.0",
-    "面向对象/配套代码/bin/Debug",
     "面向对象/0.写在前面 1.md",
     "面向对象/0.写在前面 2.md",
-    "面向对象.md",
-    "欢迎.md"
+    "面向对象.md"
   ]
 }
