@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b21a4bf10086740b",
+        "id": "944329411fcd7ef9",
         "type": "tabs",
         "children": [
           {
-            "id": "faeeea9fd15c1ebf",
+            "id": "20b0754c285121f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "面向对象/2.构造方法&同名方法.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2.构造方法&同名方法"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,22 +73,21 @@
         ]
       },
       {
-        "id": "07ee533c0f1c00b1",
+        "id": "b5411a947f5a3808",
         "type": "tabs",
         "children": [
           {
-            "id": "9826383fa45cd947",
+            "id": "d68c6fdd4eb7820a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "面向对象/2.构造方法&同名方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2.构造方法&同名方法 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -111,7 +105,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f01879b655ab8118",
+            "id": "cb62509a4157c4f9",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -126,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "零基础入门/4.变量&输入语句.md",
+                "file": "零基础入门/11.随机数&猜数字.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "4.变量&输入语句 的反向链接列表"
+              "title": "11.随机数&猜数字 的反向链接列表"
             }
           },
           {
@@ -167,21 +161,6 @@
               "icon": "lucide-tags",
               "title": "标签"
             }
-          },
-          {
-            "id": "d68c6fdd4eb7820a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "面向对象/1.类&对象.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "1.类&对象 的大纲"
-            }
           }
         ]
       }
@@ -199,37 +178,40 @@
       "graph:查看关系图谱": false
     }
   },
-  "active": "faeeea9fd15c1ebf",
+  "active": "20b0754c285121f2",
   "lastOpenFiles": [
-    "零基础入门/7.switch语句.md",
-    "面向对象/2.构造方法&同名方法.md",
-    "面向对象/1.类&对象.md",
-    "面向对象/源码/2/Person.cs",
-    "面向对象/源码/2/obj/Debug/net9.0/2.assets.cache",
-    "面向对象/源码/2/obj/rider.project.restore.info",
-    "面向对象/源码/2/obj/2.csproj.nuget.dgspec.json",
-    "面向对象/源码/2/obj/project.nuget.cache",
-    "面向对象/源码/2/obj/project.assets.json",
-    "面向对象/源码/2/obj/2.csproj.nuget.g.targets",
-    "面向对象/源码/2/obj/2.csproj.nuget.g.props",
-    "面向对象/源码/2/obj/8b819763-0129-487a-9e81-34dcfd503a4c.tmp",
-    "面向对象/源码/2/obj/project.packagespec.json",
-    "面向对象/0.写在前面.md",
-    "零基础入门/2.代码基本结构&输出语句.md",
-    "零基础入门/1.基础环境配置.md",
-    "零基础入门/0.写在前面.md",
-    "零基础入门/13.章节复习&实例.md",
-    "零基础入门/12.函数.md",
-    "零基础入门/11.随机数&猜数字.md",
-    "零基础入门/10.控制循环&死循环.md",
-    "零基础入门/9.for循环.md",
-    "零基础入门/8.while循环.md",
-    "零基础入门/6.if语句.md",
-    "零基础入门/5.运算符.md",
+    "面向对象/4.封装.md",
+    "面向对象/3.继承.md",
+    "面向对象/源码/3/Document.cs~",
+    "面向对象/源码/3/obj/rider.project.model.nuget.info",
     "零基础入门/4.变量&输入语句.md",
     "零基础入门/3.数据类型.md",
-    "未命名.canvas",
+    "未命名 1.md",
     "未命名.md",
+    "面向对象/源码/3/obj/Debug/net9.0/3.csproj.FileListAbsolute.txt",
+    "面向对象/源码/3/bin/Debug/net9.0/3.pdb",
+    "面向对象/源码/3/obj/Debug/net9.0/ref/3.dll",
+    "面向对象/源码/3/bin/Debug/net9.0/3.dll",
+    "面向对象/源码/3/bin/Debug/net9.0/3.runtimeconfig.json",
+    "面向对象/源码/3/obj/Debug/net9.0/3.genruntimeconfig.cache",
+    "面向对象/源码/3/bin/Debug/net9.0/3.deps.json",
+    "面向对象/源码/3/bin/Debug/net9.0/3.exe",
+    "面向对象/2.构造方法&同名方法.md",
+    "零基础入门/11.随机数&猜数字.md",
+    "零基础入门/10.控制循环&死循环.md",
+    "零基础入门/2.代码基本结构&输出语句.md",
+    "零基础入门/1.基础环境配置.md",
+    "零基础入门/9.for循环.md",
+    "面向对象/1.类&对象.md",
+    "面向对象/0.写在前面.md",
+    "零基础入门/13.章节复习&实例.md",
+    "零基础入门/8.while循环.md",
+    "零基础入门/12.函数.md",
+    "零基础入门/7.switch语句.md",
+    "零基础入门/6.if语句.md",
+    "零基础入门/5.运算符.md",
+    "零基础入门/0.写在前面.md",
+    "未命名.canvas",
     "README.md",
     "Pasted image 20250409195216.png",
     "unity教程/0.写在前面.md",
@@ -243,9 +225,7 @@
     "Pasted image 20250409185152 16.png",
     "Pasted image 20250409185152 15.png",
     "Pasted image 20250409185055.png.md",
-    "未命名 1.md",
     "5.运算符.md",
-    "面向对象/0.写在前面 1.md",
-    "面向对象/0.写在前面 2.md"
+    "面向对象/0.写在前面 1.md"
   ]
 }

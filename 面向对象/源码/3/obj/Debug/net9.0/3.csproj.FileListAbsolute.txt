@@ -1,0 +1,15 @@
+F:\MarkDown\csharp教程\面向对象\源码\3\bin\Debug\net9.0\3.exe
+F:\MarkDown\csharp教程\面向对象\源码\3\bin\Debug\net9.0\3.deps.json
+F:\MarkDown\csharp教程\面向对象\源码\3\bin\Debug\net9.0\3.runtimeconfig.json
+F:\MarkDown\csharp教程\面向对象\源码\3\bin\Debug\net9.0\3.dll
+F:\MarkDown\csharp教程\面向对象\源码\3\bin\Debug\net9.0\3.pdb
+F:\MarkDown\csharp教程\面向对象\源码\3\obj\Debug\net9.0\3.GeneratedMSBuildEditorConfig.editorconfig
+F:\MarkDown\csharp教程\面向对象\源码\3\obj\Debug\net9.0\3.AssemblyInfoInputs.cache
+F:\MarkDown\csharp教程\面向对象\源码\3\obj\Debug\net9.0\3.AssemblyInfo.cs
+F:\MarkDown\csharp教程\面向对象\源码\3\obj\Debug\net9.0\3.csproj.CoreCompileInputs.cache
+F:\MarkDown\csharp教程\面向对象\源码\3\obj\Debug\net9.0\3.sourcelink.json
+F:\MarkDown\csharp教程\面向对象\源码\3\obj\Debug\net9.0\3.dll
+F:\MarkDown\csharp教程\面向对象\源码\3\obj\Debug\net9.0\refint\3.dll
+F:\MarkDown\csharp教程\面向对象\源码\3\obj\Debug\net9.0\3.pdb
+F:\MarkDown\csharp教程\面向对象\源码\3\obj\Debug\net9.0\3.genruntimeconfig.cache
+F:\MarkDown\csharp教程\面向对象\源码\3\obj\Debug\net9.0\ref\3.dll
